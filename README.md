@@ -2,7 +2,7 @@
 
 ClosetMate is a web and mobile application that helps users manage their wardrobe digitally while promoting sustainability in fashion. Users can log their clothes into a virtual closet, receive intelligent outfit recommendations based on weather and trends, and track underused clothing items to encourage recycling and reuse.
 
-✨ Features
+## ✨ Features
 
 📸 Digital Closet – Store and manage clothing items with photos.
 
@@ -14,7 +14,7 @@ ClosetMate is a web and mobile application that helps users manage their wardrob
 
 📱 Cross-Platform – Built as a website (Node.js + React) and wrapped into a mobile app using Capacitor.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React.js, HTML, CSS
 
