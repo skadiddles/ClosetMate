@@ -1,4 +1,4 @@
-👕 ClosetMate – Virtual Closet & Sustainable Fashion Advisor
+# 👕 ClosetMate – Virtual Closet & Sustainable Fashion Advisor
 
 ClosetMate is a web and mobile application that helps users manage their wardrobe digitally while promoting sustainability in fashion. Users can log their clothes into a virtual closet, receive intelligent outfit recommendations based on weather and trends, and track underused clothing items to encourage recycling and reuse.
 
