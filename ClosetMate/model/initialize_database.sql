@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS closetmate;
 CREATE DATABASE IF NOT EXISTS closetmate;
-USE login_test;
+USE closetmate;
 
 CREATE TABLE IF NOT EXISTS user_info(
     user_id INTEGER AUTO_INCREMENT NOT NULL,
